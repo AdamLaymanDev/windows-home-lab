@@ -24,10 +24,10 @@ Tools Used:
 ## User Accounts Created
 
 Account Name:
-- 
+- HelpDesk-Test
 
 Account Type:
-- 
+- Local Account
 
 ## Skills Practiced
 
