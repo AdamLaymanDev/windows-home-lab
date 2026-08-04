@@ -2,95 +2,97 @@
 
 ## Objective
 
-Create troubleshooting documentation for common IT issues that Help Desk technicians encounter. This lab focuses on creating clear solutions that can be used by both technicians and end users.
-
----
-
-## Ticket
-
-**Project Number:** 0008
-
-**Project:** Create a Help Desk Knowledge Base
-
-**Priority:** High
-
-**Status:** Completed
+Create troubleshooting documentation for common IT support issues. The purpose of this knowledge base is to provide clear solutions that Help Desk technicians can use when assisting users.
 
 ---
 
 # Knowledge Base Articles
 
-## Article 1: Computer Running Slow
+---
 
-### Issue
+# Article 1: Computer Running Slow
 
-User reports that their computer is running slowly.
+## Issue
 
-### Troubleshooting Steps
+A user reports that their computer is running slowly.
 
-1. Open Task Manager.
-2. Check CPU, Memory, and Disk usage.
-3. Review startup applications.
-4. Check available storage space.
-5. Restart the computer.
-6. Install pending Windows updates.
+## Troubleshooting Steps
 
-### Resolution
+1. Open Task Manager using Ctrl + Shift + Esc.
+2. Review CPU, Memory, and Disk usage.
+3. Identify applications using excessive resources.
+4. Review startup applications.
+5. Check available storage space.
+6. Restart the computer.
+7. Verify Windows updates are installed.
 
-The issue was resolved by identifying resource usage, removing unnecessary startup applications, and ensuring Windows was updated.
+## Resolution
+
+The computer performance was reviewed by checking system resources, startup applications, and Windows updates. Troubleshooting steps were documented for future support requests.
 
 ---
 
-## Article 2: No Internet Connection
+# Article 2: No Internet Connection
 
-### Issue
+## Issue
 
-User cannot access the internet.
+A user cannot access the internet.
 
-### Troubleshooting Steps
+## Troubleshooting Steps
 
-1. Verify network connection.
-2. Check Ethernet or Wi-Fi connection.
-3. Run `ipconfig` to view network information.
-4. Test connectivity using `ping`.
-5. Restart networking equipment if needed.
+1. Verify the Ethernet cable or Wi-Fi connection.
+2. Check network adapter status.
+3. Open Command Prompt.
+4. Run:
 
-### Resolution
+```
+ipconfig
+```
 
-Network connectivity was tested and restored by verifying IP configuration and connection status.
+5. Verify IP address and default gateway.
+6. Test connectivity using:
 
----
+```
+ping google.com
+```
 
-## Article 3: Software Installation Issue
+7. Restart network equipment if needed.
 
-### Issue
+## Resolution
 
-User needs a software application installed.
-
-### Troubleshooting Steps
-
-1. Verify software requirements.
-2. Download software from an official source.
-3. Install the application.
-4. Verify successful installation.
-5. Test that the application opens correctly.
-
-### Resolution
-
-Software was installed successfully and verified.
+Network connectivity was tested by reviewing IP configuration and performing connectivity checks.
 
 ---
 
-## Skills Learned
+# Article 3: Software Installation Request
 
-- Writing technical documentation
-- Creating troubleshooting guides
-- Communicating solutions clearly
-- Organizing IT knowledge
+## Issue
+
+A user needs a software application installed.
+
+## Troubleshooting Steps
+
+1. Confirm the software is approved.
+2. Download the installer from the official website.
+3. Run the installation wizard.
+4. Accept required agreements.
+5. Complete installation.
+6. Open the application.
+7. Verify the software works correctly.
+
+## Resolution
+
+The application was installed successfully and verified.
+
+---
+
+# Skills Learned
+
+- Creating IT documentation
+- Writing troubleshooting guides
+- Explaining technical solutions
 - Supporting end users
+- Building a knowledge base
+- Improving troubleshooting workflows
 
 ---
-
-## Screenshots
-
-(Add screenshots of documentation examples here.)
