@@ -21,13 +21,15 @@ The goal of this lab is to practice basic network troubleshooting commands used 
 ## Network Information
 
 IPv4 Address:
--
+- 192.168.1.141
 
 Default Gateway:
--
+- fe80::92d3:cfff:fe57:394b%6192.168.1.1
 
 DNS Server:
--
+- 2603:6082:5100:1b0::1192.168.1.12603:6082:5100:1b0::1
+To find this I had to use the comand: ipconfig /all
+I had to do this because I am connected using ethernet.
 
 ## Commands Practiced
 
