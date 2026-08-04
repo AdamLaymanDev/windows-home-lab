@@ -27,7 +27,7 @@ Account Name:
 - HelpDesk-Test
 
 Account Type:
-- Local Account
+- Local User Account 
 
 ## Skills Practiced
 
